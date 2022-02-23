@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canons and institutions drawn up and agreed upon by the General Assembly or Meeting of the heads of the Quakers from all parts of the kingdom at their New-Theatre in Grace-church-street in or about January 1668/9 ; George Fox being their president.</title>
+            <author>Society of Friends.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40127</idno>
+            <idno type="STC">Wing F1755</idno>
+            <idno type="STC">ESTC R36474</idno>
+            <idno type="EEBO-CITATION">15699663</idno>
+            <idno type="OCLC">ocm 15699663</idno>
+            <idno type="VID">104451</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40127)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104451)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Canons and institutions drawn up and agreed upon by the General Assembly or Meeting of the heads of the Quakers from all parts of the kingdom at their New-Theatre in Grace-church-street in or about January 1668/9 ; George Fox being their president.</title>
+                  <author>Society of Friends.</author>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>[12], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.].</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104451:1" rendition="simple:additions"/>
+            <p>CANONS AND JNSTITUTIONS Drawn up and Agreed upon By the General Aſſembly or <hi>Meeting</hi> of the Heads of the QVAKERS; From all Parts of the King<g ref="char:EOLhyphen"/>dom, at their New-Theatre in <hi>Grace-church-ſtreet,</hi> in or about January 1668/9.</p>
+            <p>
+               <hi>George Fox</hi> being their Preſident.</p>
+            <p>
+               <hi>London,</hi> Printed, <hi>Anno Dom.</hi> 1669.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:104451:2"/>
+            <pb facs="tcp:104451:2"/>
+            <head>An Introduction.</head>
+            <p>THere hath been ſome time ſpent in the Inſpection of this <hi>Quakers Synod:</hi> And al<g ref="char:EOLhyphen"/>though all the Particulars of that Days Procedure cannot be obtain<g ref="char:EOLhyphen"/>ed; yet ſo many of them as will render that Party or Sect of men for ever Infamous and Ridiculous with all Intelligent and Obſervant men, is with great difficulty obt<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ned.</p>
+            <p>They had proceeded unto many other Inſolencies (beſides what they
+<pb facs="tcp:104451:3"/>have laid down in theſe their Ca<g ref="char:EOLhyphen"/>nons and Inſtitutions) in the ſtating of their Government, had not ſome of them feared the Magiſtratical Ju<g ref="char:EOLhyphen"/>ſtice. However the reſt ſhewed their forwardneſs thereunto, by the Propoſals were made to intro<g ref="char:EOLhyphen"/>duce either <hi>A New Scripture</hi> into the world, or <hi>The Old one with many &amp; great Additions;</hi> this was urged once and again from a twofold To<g ref="char:EOLhyphen"/>pick: the firſt was, <hi>That many places in the Old Teſtament did refer to ſe<g ref="char:EOLhyphen"/>veral Books, which as yet were never extant;</hi> and the <hi>Supplement to the New</hi> was inſiſted upon, by others, who ſaid there was, amongſt others, <hi>An Epiſtle to the Church of Laodi<g ref="char:EOLhyphen"/>cea</hi> to be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dded to the Canon, and put into the <hi>Revelations.</hi> But it ſeems theſe things proved not ſo
+<pb facs="tcp:104451:3"/>ripe as they purpoſed; and whether they were rejected, or left for ano<g ref="char:EOLhyphen"/>ther time, there muſt be new infor<g ref="char:EOLhyphen"/>mation of; not knowing as yet, if they intend to ſubjoyn the ſaid <hi>E<g ref="char:EOLhyphen"/>piſtle to the Church of Laodicea</hi> by way of <hi>Appendix,</hi> or not.</p>
+            <p>Several <hi>Penances</hi> were done that Day, and performed after a very <hi>carnal</hi> way, however ſtiled by them <hi>The Condemnation and Judgment of the Spirit.</hi>
+            </p>
+            <p>The <hi>Faults</hi> were various: Some for being too buſie with Women; ſome for diſorder in their <hi>Meetings,</hi> as keeping Hats on when others had them off, or when their <hi>Friends</hi> prayed <hi>&amp;c.</hi> and others for want of <hi>zeal.</hi>
+            </p>
+            <p>Some credibly report, that be<g ref="char:EOLhyphen"/>fore many of them can make their
+<pb facs="tcp:104451:4"/>peace with their <hi>Brethren,</hi> they were forced to bow down them<g ref="char:EOLhyphen"/>ſelves, and by a willing ſubjection put their heads between (their Pre<g ref="char:EOLhyphen"/>ſident's for the time being) <hi>George Fox</hi> his Legs, who was Preſident at that Days Solemnity; and whoſe Name is inſerted as Primate and Me<g ref="char:EOLhyphen"/>tropolitan of the reſt.</p>
+            <p>The buſineſs of Civil Matters took up a conſiderable part of their ſaid Days Work; and I cannot learn that they went further than the <hi>Wi<g ref="char:EOLhyphen"/>dows Bed</hi> and the <hi>Dead mans grave.</hi> How much the Prerogative Court would take cognizance of that af<g ref="char:EOLhyphen"/>fair, concerning Wills, Teſtaments and Legacies, is beſt known to themſelves.</p>
+            <p>But that of <hi>Marriage,</hi> in the way and method by them inſtituted and
+<pb facs="tcp:104451:4"/>explained, will be of very great concernment to all Widows, Maids and ſingle perſons of the Female ſex (who have not wholly caſt off that Modeſty, Shamefac'dneſs and Baſh<g ref="char:EOLhyphen"/>fulneſs, which hath ever been eſtee<g ref="char:EOLhyphen"/>med as their Ornament, Virtue and Grace; whileſt they muſt have a <hi>Jury</hi> of Witneſſes to their firſt <hi>Con<g ref="char:EOLhyphen"/>junction,</hi> which their Third Canon makes the <hi>Ratio Formalis</hi> of Marri<g ref="char:EOLhyphen"/>age;) to look to themſelves; and to conſider whether it would more defile the <hi>hands</hi> of the married per<g ref="char:EOLhyphen"/>ſons that the Miniſter joyns in holy Wedlock, than the <hi>eyes</hi> of theſe 12 Spectators at their firſt <hi>doing</hi> toge<g ref="char:EOLhyphen"/>ther (as they call it) would.</p>
+            <p>It may now be ſeaſonably conſi<g ref="char:EOLhyphen"/>dered, how much theſe ſort of men have fallen from their firſt Princi<g ref="char:EOLhyphen"/>ples,
+<pb facs="tcp:104451:5"/>Mode and VVay, by reſolving all things thus <hi>formally;</hi> when at firſt their Religion ſeemed a Chaos, and Darkneſs covered the face of their <hi>Deep,</hi> and the very <hi>Ratio For<g ref="char:EOLhyphen"/>malis</hi> of their Religion was to cry down <hi>Forms;</hi> which later practiſe of theirs, if it ſucceed no better than it hath yet, will undoubtedly break them and their <hi>Forms</hi> alſo; many of their own Party falling off by rea<g ref="char:EOLhyphen"/>ſon of it.</p>
+            <p>That of Doctor <hi>Smith</hi> the Phyſi<g ref="char:EOLhyphen"/>cian, who was convened before one of their <hi>Private Courts,</hi> hath given his eminent diſlike of their <hi>way</hi> and <hi>proceedings,</hi> by leaving behind him Ten ſheets of paper, fill'd with the many Cheats, Frauds and Inſolen<g ref="char:EOLhyphen"/>cies of his <hi>quondam</hi> Brethren the <hi>Quakers,</hi> of whom he had been for
+<pb facs="tcp:104451:5"/>fourteen years, by which he had the moſt conſiderable opportuni<g ref="char:EOLhyphen"/>ties to look into the <hi>Arcanaes</hi> and Secrets of their Myſtery of Iniquity: And although Fourty pound was propoſed to him in whoſe hands the Manuſcript lay, by ſome of their Party, that the Book might never ſee the light; yet 'tis hoped it will be printed, and be as a ſtanding Te<g ref="char:EOLhyphen"/>ſtimony againſt them, when they and their <hi>Inſtitutions</hi> ſhall evaniſh and come to nothing.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:104451:6"/>
+            <pb facs="tcp:104451:6"/>
+            <p> 
+               <hi>Canons</hi> and <hi>Inſtitutions</hi> Agreed upon at a General Meeting OF THE QVAKERS. 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:104451:7"/>
+            <pb n="1" facs="tcp:104451:7"/>
+            <head>Friends fellowſhip muſt be in the ſpi<g ref="char:EOLhyphen"/>rit, and all Friends muſt know one another in the Spirit and power of God.</head>
+            <p n="1">I. IN all the Meetings of the County, Two or Three being gathered from them to go to the General Meeting, for to give notice one to another, if there be any that walk not in the truth, and have bin convinced, and go from Truth; and ſo diſ<g ref="char:EOLhyphen"/>honoreth God: that ſome may be Ordered from the Meeting to go to exhort ſuch; and bring into the next General Meeting what they ſay.</p>
+            <p n="2">II. If any that profeſs the Truth, that follow Pleaſure, Drunkenneſs, Gaming, or is not faithful in their Callings &amp; Dealings, nor honeſt nor juſt; but runneth into Debt, and ſo bringeth a ſcandal upon the Truth: Friends may give notice at the next General Meeting, if there be any ſuch; and ſome may be ordered to go and exhort them, to bring in their Anſwers at the next General Meet<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="3">
+               <pb n="2" facs="tcp:104451:8"/> III. And if any go diſorderly together in Marriage, contrary to the practiſe of the Holy men of God, and Aſſembly of the Rightous in all ages, who declared it in the Aſſemblies of the Rightous when they took one another (all things being clear) and they both being free from any other. And when they <hi>do</hi> together, and take one ano<g ref="char:EOLhyphen"/>ther, let there not be leſs than a dozen friends and Relations preſent, according to your former order; having firſt acquainted the Mens Meeting; and they have clearneſs and unitic with them: And that it may be re<g ref="char:EOLhyphen"/>corded in a Book, according to Word and Commandment of the Lord: And if any walk contrary to the Truth therin, let ſome be ordered to ſpeak to them, and give no<g ref="char:EOLhyphen"/>tice thereof to the next General Meeting.</p>
+            <p n="4">IV. And all that be Widdows (which have children) and do intend to Marry; let Querie be made what ſhe hath done for her Children; if there be no Will made, then let ſuch part of her late Husbands Eſtate be ſet out for her children, as is equal accord<g ref="char:EOLhyphen"/>ing to truth; and what they can do after<g ref="char:EOLhyphen"/>wards, let them do alſo; and where there is a Will made, let thoſe Legacies and Por<g ref="char:EOLhyphen"/>tions
+<pb n="3" facs="tcp:104451:8"/>be improved and ſecured before Mar<g ref="char:EOLhyphen"/>riage for the Children of the Deceaſed, with what more they can do for them; and then when theſe things are done, let them be re<g ref="char:EOLhyphen"/>corded in a Book at the next General Meet<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="5">V. And alſo all Widdows in all your ſeveral Meetings, let them be taken notice of, and informed and incouraged in their outward buſineſs, that there be not an hin<g ref="char:EOLhyphen"/>drance to them in their inward growth; and ſo carefully look after them, that they may be nouriſhed and cheriſhed and ſo preſer<g ref="char:EOLhyphen"/>ved in the Truth; that Love may be in<g ref="char:EOLhyphen"/>creaſed, and if they have many Children to put out Apprentices or Servants, that may be a burthen to them to bring up; then let Friends take care to eaſe them, by putting them forth as may be meet: Let all this be look'd into by every Meeting, and Notice thereof given to the next General Meeting, and then ſome ordered to ſee that all things are done according to Truth and Rightouſ<g ref="char:EOLhyphen"/>neſs.</p>
+            <p n="6">VI. And all ſuch as marry by the Prieſts of Baal, who are the rough hands of Eſau, and fiſts of wickedneſs, and bloody hands,
+<pb n="4" facs="tcp:104451:9"/>and who have had their hands in the blood of our Brethren, and who are the cauſe of all this baniſhment of our Brethren, and ſpoiled ſo many of their goods, caſting into priſon, and keepeth many hundreds at this day; And ſuch as go to them for wives or husbands, muſt come to Judgment and condemnation of the Spirit, that lead them to Baal and Baals Prieſts, alſo, or elſe friends (that keep their habitations) muſt write a<g ref="char:EOLhyphen"/>gainſt them and Baal both: For from Ge<g ref="char:EOLhyphen"/>neſis to the Revelations you never read of any Prieſt that married people: but it is Gods Ordinance, and whom God joyns to<g ref="char:EOLhyphen"/>gether, let no man put aſunder: And they took one another in the Aſſembly of the Rightous, when all things were clear: there<g ref="char:EOLhyphen"/>fore let all thoſe things be enquired into, and brought to the General Meeting, and from thence ſome ordered to go to them and re<g ref="char:EOLhyphen"/>turn what they ſay at your next Meeting; and all this before they or any of them be left as heathens, or written againſt: let them be three or four times gone to, that they may have Goſpel order, ſo that if it be poſſi<g ref="char:EOLhyphen"/>ble they may come to that which did con<g ref="char:EOLhyphen"/>vince them, to condemn their unrightous
+<pb n="5" facs="tcp:104451:9"/>doings, that ſo you may not have a hoof in Egypt.</p>
+            <p n="3">VII. And alſo ſuch as wear their hats when Friends pray, and are gotten into the old rotten principle of the Ranters, who ſet up the wearing thereof in oppoſition to the power of God, and therein uphold it, which is condemned by it, and the power of God is gone over it and them; who have Ranted from the Truth, and have ſtopped many who were coming into it, th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the very world may ſay you are in a confuſion, and divided, and gone from your firſt principle, who ſaid you were of one heart, and one mind, and one ſoul. And therefore that ſpi<g ref="char:EOLhyphen"/>rit muſt be cut off by the ſword of the Spi<g ref="char:EOLhyphen"/>rit of the Lord, that they may come to them which did at firſt convince them: and no<g ref="char:EOLhyphen"/>tice may be given to the General Meeting of all things, and from thence muſt be ordered to go and exhort them, that erre in ſuch things, to come to the firſt principle that did at firſt convince them; that they may come over ſuch things, and Friends muſt ſtand up in the Noble Seed of God to judg the world and all the fallen Angels.</p>
+            <p n="8">VIII. And in all your Meetings let no<g ref="char:EOLhyphen"/>tice
+<pb n="6" facs="tcp:104451:10"/>be given to the General Meeting, of all the poor, and when you have heard that there is many more poor belonging to one Meeting than to another, and that Meeting thereby burthened and oppreſſed; let the reſt of the Meetings aſſiſt and help them, ſo that you may eaſe one another, and help to bear one anothers burthens, and ſo fulfill the law of Chriſt, and ſo ſee that nothing be lacking, according to the Apoſtles words, then all is well. For the Jews outward, though they were as the ſtars of heaven, and as the ſand on the ſea, yet there was not to be a beggar amongſt them, according to the law of God: and amongſt Chriſtians in the firſt Ages, there was a Mens Meeting ſet up at Jeruſa<g ref="char:EOLhyphen"/>lem to ſee that nothing was lacking, which was the Goſpel Order according to the law of the Spirit, and thus continued as long as they lived, in the like power and Spirit of God: But when the Apoſtates came in, and the true Church fled into the Wilder<g ref="char:EOLhyphen"/>neſs, who was to continue there 1260 days, and the Witneſſes propheſied in Sack-cloth 1260 days, and the Beaſt was worſhipped juſt ſo long 1260 days, and then all things went out of order, every thing was wanting
+<pb n="7" facs="tcp:104451:10"/>in the time they worſhipped the Dragon, and the Beaſt and the Devil made the world like a Wilderneſs. But now the Judgment of the Great Whore is come, and of the Beaſt, and with them the Falſe Prophet and the Dragon, who ſhall be caſt alive into the Lake of Fire. And the True Church come up out of the Wilderneſs, and the Manchild which was caught up in<g ref="char:EOLhyphen"/>to Heaven, come down again to Rule all Nations with a Rod of iron; and the Marri<g ref="char:EOLhyphen"/>age of the Lamb is come, and the Lamb and the Saints ſhall have the Victory. And the everlaſting Goſpel is and ſhall be preached again, as was amongſt the Apoſtles; the Goſpel order ſhall be ſet up, as amongſt them; and a Mens Meeting, as was at the firſt Converſion, to ſee that nothing be lack<g ref="char:EOLhyphen"/>ing in the Church, then all things is well: ſo there is not to be a Beggar (now amongſt the Chriſtians,) according to the Law of Jeſus, as there was not to be any amongſt the Jews by the Law of God.</p>
+            <p n="9">IX. And alſo all men that hunt after wo<g ref="char:EOLhyphen"/>men, from woman to woman; and alſo women whoſe affections run ſometimes af<g ref="char:EOLhyphen"/>ter one man, and ſoon after another, and ſo
+<pb n="8" facs="tcp:104451:11"/>hold one another in affection, and ſo draw out the affection of one another, and after a while leave one another, and go one from another, do the ſame thing: Theſe <hi>Doings</hi> make more like Sodom than Saints, and is not of Gods moving or joyning, then they are to be parted, for Marriage is Gods Or<g ref="char:EOLhyphen"/>dinance, Gods command, and one to ano<g ref="char:EOLhyphen"/>ther, and in that they feel the Power of God.</p>
+            <p n="10">X. And that notice be taken of all evil Speakers, backbiters and ſlanderers, and fooliſh talkers, and idle Jeſters; for all theſe things corrupt good manners, and is not according to the Saints and Holy ones, whoſe words are ſeaſoned with ſalt, mini<g ref="char:EOLhyphen"/>ſtring Grace to the hearers.</p>
+            <p n="11">XI. All ſuch as are Tale-carriers, and Railers, whoſe work is to ſow diſſention, are to be reproved and admoniſhed; for ſuch do not bring people into the unity of the Spirit, but by ſuch means do loſe their own condition.</p>
+            <p n="12">XII. And all ſuch as go up and down to cheat, by borrowing and getting of Money of Friends in by-places, and have cheated ſeveral; all ſuch are to be ſtopped, and
+<pb n="9" facs="tcp:104451:11"/>judged: as there is a Woman, tall in her perſon, freckled in her face; and alſo one <hi>John Harding,</hi> who are for judgment, and to be condemned.</p>
+            <p n="13">XIII. If there happen any difference be<g ref="char:EOLhyphen"/>tween Friend and Friend, of any matter, if it cannot be ended againſt the next General Meeting, let half a dozen Friends from the General Meeting be ordered to put a ſpeedy end thereto; That Juſtice may be ſpeedily done, that no difference may riſe or remain amongſt any: And let your General Meet<g ref="char:EOLhyphen"/>ing be once in every quarter of a year, and to be appointed at ſuch place, as may be moſt convenient for the moſt of Friends to meet in; ſo the houſe may be cleanſed of all that is contrary to Purity, Virtue, Light, Life and Spirit and Power of God; ſo that Friends may not be one anothers ſorrows and troubles, but one anothers Joy and Crown in the Lord.</p>
+            <p n="14">XIV. And all Friends ſee that your chil<g ref="char:EOLhyphen"/>dren be trained up in the fear of the Lord, in Soberneſs and Holineſs, Rightouſneſs and Temperance, Meekneſs and Gentleneſs and Lowlines and Modeſty in apparel and car<g ref="char:EOLhyphen"/>riage; and ſee to exhort your Children and
+<pb n="10" facs="tcp:104451:12"/>Family, and teach your Children when they are young, then will they remember when they are old, according to Solomon, and ſo they may be a Bleſſing to you, and not a Curſe.</p>
+            <p n="15">XV. And that Ftiends do buy conveni<g ref="char:EOLhyphen"/>ent burying places, as Abraham did, who bought a place to bury his dead, and would not bury them amongſt the Egyptians and Canaanites; and Jacob was brought out of Egypt, and Joſeph and they were buried in their Grandfathers and great Grandfathers burying place. And ſo Friends to buy de<g ref="char:EOLhyphen"/>cent burying places for your Meetings, and to keep out the Spirit of the Sodomites and Egyptians and Canaanites, that corrupt the earth, and let them be decently and well fenced, that you may condemn all the world in all things.</p>
+            <p n="16">XVI. And alſo that Friends buy conve<g ref="char:EOLhyphen"/>nient Books for Regiſtring the Births and Marriages and Burials, as the Holy men of God did of old, as you may read through the Scripture; that every one may be ready to give Teſtimony and Certificate thereof, if need requires, or any be called thereunto.</p>
+            <p n="3">
+               <pb n="11" facs="tcp:104451:12"/> XVII. And alſo that all the Sufferings of Friends, and all kind of Sufferings of Friends in all the Counties be gathered up &amp; put to<g ref="char:EOLhyphen"/>gether, &amp; ſent to the General Meeting, &amp; ſo ſent to <hi>London</hi> to <hi>Ellis Hooks;</hi> that nothing of the Memorial of the blood and cruel Suffe<g ref="char:EOLhyphen"/>rings of your Brethren be loſt, which may ſtand as a Teſtimony againſt the Murdering Spirits of the World: and be it to the praiſe of the Lords everlaſting Power of the Lord in the Ages to come, who ſupported his, and upheld his in ſuch Hardſhips and Cru<g ref="char:EOLhyphen"/>elty, who is God over all bleſſed for ever, Amen.</p>
+            <p n="18">XVIII. And let enquiry be made con<g ref="char:EOLhyphen"/>cerning all ſuch that pay Tithes, which make void the Teſtimony and Suffering of all our Brethren, who have ſuffered many of them to death, by which many Widows and Fatherleſs have been made, which is contrary to the Doctrine of the Apoſtles, and the Doctrine of the Martyrs, and con<g ref="char:EOLhyphen"/>trary to the Doctrine of the Rightous in this preſent Age. All ſuch are to be en<g ref="char:EOLhyphen"/>quired into, and to be exhorted.</p>
+            <p n="19">XIX. And let Query be made concern<g ref="char:EOLhyphen"/>ing all Priſoners that are poor, that they
+<pb n="12" facs="tcp:104451:13"/>may be Relieved, and ſo encouraged in their ſufferings; and alſo that care be taken for their Wives and Families, that they do not ſuffer for want of ſupply, and outward things; and let enquiry be made how ma<g ref="char:EOLhyphen"/>ny there are in all your ſeveral Counties. Let diligent Enquiry be made into all theſe things, at every Meeting, and at every Quar<g ref="char:EOLhyphen"/>ter Meeting is to take care accordingly.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>Dear Friends:</salute>
+               </opener>
+               <p>Be faithful in the ſervice of God, &amp; mind the Lords buſineſs; be diligent, &amp; bring the power of the Lord over all thoſe that have gainſaid it; &amp; all you that be faithful, go to viſit them all that have been convinced, from houſe to houſe, that if it be poſſible you may not leave a hoof in Egypt; and ſo e<g ref="char:EOLhyphen"/>very one go ſeek the loſt ſheep, and bring him home on your back to the Fold, and there will be more joy of that one ſheep, than of the Ninety nine in the fold.</p>
+               <closer>
+                  <signed>G. F.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="part">
+            <pb n="13" facs="tcp:104451:13"/>
+            <head>Copies of this to be ſent abroad amongſt Friends at their Meetings.</head>
+            <p>ALl Friends every where who are gathered in the Name of <hi>Jeſus Chriſt,</hi> keep your Meetings as you did in the begining, betwixt the 10. and 11. hours, when the Prieſt is in the heat of his Worſhip, and ſo all you, be in your Meetings feeding on the bread of Life, when the Prieſt and his Company are in his and their Diſhes and Pleaſures;
+<pb n="14" facs="tcp:104451:14"/>and you then to break your Meetings, as you feel the Power to order you, about the third or fourth hours, when the Prieſt is in the heat of his Worſhip, and ſo you may go when he is in his heat, and ſits over his diſhes, and go a<g ref="char:EOLhyphen"/>way in his heat; and this was the practiſe of Friends in the begining: therefore do you continue in it. Keep your Meetings on the Firſt day, and your weekly Meetings in the Name of <hi>Jeſus</hi> that never changeth.</p>
+            <p>And Friends all take heed
+<pb n="15" facs="tcp:104451:14"/>of ſleeping in Meetings, and ſottiſhneſs and dullneſs; for it is an illſavory thing to ſee one ſit nodding in a Meeting, and ſo to loſe the ſenſe of the Lord &amp; ſhamefac'dneſs both; and it grieveth the Upright and watchful, that wait upon the Lord, to ſee ſuch things; and for the Prieſts, people and o<g ref="char:EOLhyphen"/>thers that come into your Meetings, to ſee you that come together to worſhip God and wait upon Him, to have Fellowſhip in His Spirit, for you to ſit nodding is a ſhame and unſeemly thing. There<g ref="char:EOLhyphen"/>fore
+<pb n="16" facs="tcp:104451:15"/>be careful and watchful, and let it be amended, and mind the light and power of God, <hi>Chriſt Jeſus</hi> in you, and that will condemn all ſuch things, and lead you out and above all ſuch things, and make you watchful over one another for good.</p>
+            <p>
+               <hi>Let this be read in all your Meetings.</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104451:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
